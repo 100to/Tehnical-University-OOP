@@ -1,0 +1,5 @@
+int i
+float delta
+char varch
+int a
+float bb
